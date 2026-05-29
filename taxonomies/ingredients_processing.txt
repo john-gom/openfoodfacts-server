@@ -143,8 +143,16 @@ da: filtreret
 sv: filtrerad
 uk: фільтрований, фільтрована, фільтроване, фільтровані
 
+# microfiltration: filtration process where a contaminated fluid is passed through a special
+# pore-sized membrane filter to separate microorganisms and suspended particles from process liquid
 < en:filtered
-en: microfiltered
+en: microfiltered, microfiltrated, really really filtered
+es: microfiltrado
+fr: microfiltré
+hu: mikrofiltrált
+it: microfiltrato
+pt: microfiltrado
+uk: мікрофільтрований, мікрофільтрована, мікрофільтроване, мікрофільтровані
 
 en: unfiltered
 bg: непречистен, нефилтриран
@@ -2535,7 +2543,7 @@ pt: levemente açucarado, levemente açucarada, levemente açucarados, levemente
 
 # In French, "confit" means candied, or cooked in fat (canard confit), or preserved in salted water (citron confit)
 < en:sugared
-en: candied
+en: candied, caramelised
 ca: confitat, confitada
 da: kandiserede
 de: kandiert, kandierte, kandierten, kandierter
@@ -2614,6 +2622,7 @@ ro: cu ulei de floarea-soarelui
 sv: med solrosolja
 
 de: geschwefelt, geschwefelte
+en: Sulphured
 
 # <en:sulfite free, unsulphured
 de: ungeschwefelt, ungeschwefelte
@@ -2851,15 +2860,6 @@ ru: Фильтрат
 sl: filtrat
 uk: фільтрат
 
-# microfiltration: filtration process where a contaminated fluid is passed through a special
-# pore-sized membrane filter to separate microorganisms and suspended particles from process liquid
-en: microfiltered, microfiltrated
-es: microfiltrado
-fr: microfiltré
-hu: mikrofiltrált
-it: microfiltrato
-pt: microfiltrado
-uk: мікрофільтрований, мікрофільтрована, мікрофільтроване, мікрофільтровані
 
 #######################################################################
 #
