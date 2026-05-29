@@ -2614,6 +2614,7 @@ ro: cu ulei de floarea-soarelui
 sv: med solrosolja
 
 de: geschwefelt, geschwefelte
+en: Sulphured
 
 # <en:sulfite free, unsulphured
 de: ungeschwefelt, ungeschwefelte
