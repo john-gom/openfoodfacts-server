@@ -2535,7 +2535,7 @@ pt: levemente açucarado, levemente açucarada, levemente açucarados, levemente
 
 # In French, "confit" means candied, or cooked in fat (canard confit), or preserved in salted water (citron confit)
 < en:sugared
-en: candied
+en: candied, caramelised
 ca: confitat, confitada
 da: kandiserede
 de: kandiert, kandierte, kandierten, kandierter
